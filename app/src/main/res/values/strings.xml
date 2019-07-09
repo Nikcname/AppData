@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Data</string>
+    <string name="create_item">Create Item</string>
+    <string name="next">Next</string>
+    <string name="create">Create</string>
+    <string name="directory_name">Directory name:</string>
+    <string name="text">Text:</string>
+    <string name="file_name">File name:</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="external_storage">External Storage</string>
+</resources>
